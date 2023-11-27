@@ -28,4 +28,17 @@
 </ul>
 
 
+## More detailed information about modules
+<details>
+<summary>Click here to see information about modules <b>Project</b>!</summary>
+<b>Modules</b>
+
+* Cipher - Logic of shifting letters with rot 13/47 and capability to write message to and choose your own rot.
+* Main - To use as basic builtin data for Cipher.
+* Buffer - Keep your messages durnig run time and allow to preper them to save or read from  json file.
+* File Handler - Read and Write data from and to json file.
+* Manager - Responsable for dispatching data.
+* Menu - Takes all input and shows menu.
+
+</details>
 
