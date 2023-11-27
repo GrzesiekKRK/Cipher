@@ -4,8 +4,24 @@ from buffer import Buffer, Text
 
 def main() -> None:
     command = manager.Manager()
-    one = Text("For gogh and mog", 47, "Decrypted")
+    one = Text(
+        "If you are smartest person in the room, then you are in the wrong room",
+        13,
+        "Decrypted",
+    )
+    three = Text(
+        "If you are smartest person in the room, then you are in the wrong room",
+        47,
+        "Decrypted",
+    )
+    two = Text(
+        "If you are smartest person in the room, then you are in the wrong room",
+        3,
+        "Decrypted",
+    )
     Buffer.add(one)
+    Buffer.add(two)
+    Buffer.add(three)
     command.run_time()
 
 
