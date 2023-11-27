@@ -9,7 +9,7 @@
 ## General info
 <details>
 <summary>Click here to see general information about <b>Project</b>!</summary>
-<b>Cipher</b>Project that shifts letters in a message to make it unreadable. Every part of Cipher  is a sample code whiche shows  how to do the following:
+<b>Cipher</b> Project that shifts letters in a message to make it unreadable. Every part of Cipher  is a sample code whiche shows  how to do the following:
 
 *Letters shifting using String module
 * Write Clean Code and Typing
