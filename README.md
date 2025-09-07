@@ -3,7 +3,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [More detailed information about modules](#more-detailed-information-about-modules)
-* [Application view](#application-view)
+* [Contact](#contact)
 
 
 ## General info
@@ -42,3 +42,17 @@
 
 </details>
 
+## Setup
+<details>
+1.Download project using Code button and choose Download ZIP option or clone the project.
+2.Extract files if you download zip file.
+3.Open Cipher-main folder as a project.
+4.Create virtual environment in IDE terminal with command "python -m venv venv_name" where venv_name is a name of created virtual environment.
+5.Execute venv/scripts/activate where venv is the name of created virtual environment.
+6.If you want to add new features please install requirements from txt file by executing pip install -r requirements.txt in terminal.
+7.Open main.py file and run program.
+</details>
+
+## Contact
+gmail: grze.zabaglo@gmail.com
+linkedin:https://www.linkedin.com/in/grzegorz-zabag%C5%82o-820563214/
