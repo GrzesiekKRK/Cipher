@@ -23,8 +23,8 @@
 ## Technologies
 <ul>
 <li> Python</li>
-<li> Two</li>
-<li> Three</li>
+<li> Pre-commit</li>
+<li> Json</li>
 </ul>
 
 
